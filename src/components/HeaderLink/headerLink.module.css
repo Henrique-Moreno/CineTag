@@ -1,0 +1,11 @@
+.link {
+  color: var(--white);
+  font-size: 1.2rem;
+  font-weight: 400;
+  text-decoration: none;
+  padding: 1rem;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
